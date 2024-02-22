@@ -1,10 +1,10 @@
 {
-"update_url": "https://clients2.google.com/service/update2/crx",
+  "update_url": "https://clients2.google.com/service/update2/crx",
 
   "manifest_version": 2,
-  "name": "Leaf Browser Alpha",
+  "name": "Crimson Browser Epic",
   "version": "0.1.2",
-  "author": "Sam Lanning <sam@samlanning.com>",
+  "author": "8percent <8percentbuisness@proton.me>",
 
   "description": "An experimental browser that runs in chrome.",
   "icons": {
@@ -28,5 +28,5 @@
     "pointerLock",
     "http://*/*",
     "https://*/*"
-    ]
+  ]
 }
